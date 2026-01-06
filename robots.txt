@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinocalais-online.com/
+Sitemap: https://casinocalais-online.com/sitemap.xml

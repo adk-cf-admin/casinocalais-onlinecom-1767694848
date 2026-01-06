@@ -1,0 +1,205 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#000001",
+            "lang-select-color": "#222829",
+            "bg-light": "#000001",
+            "welcome-bonus-bg": "#000001",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#171717",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#CD2D26",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#d1aa3d",
+            "yellow": "#CD2D26",
+            "yellow-button": "#d1aa3d",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000001",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#3a3a3b",
+            "pay-back": "#deeadf",
+            "providers-back": "#000001",
+            "faq-label": "#000001",
+            "bg-footer": "#000001",
+            "copyright": "#e7e7d5",
+            "starColor": "#CD2D26",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Calais",
+            "title": "Casino de Calais : machines, roulette, blackjack, restaurant et divertissements",
+            "description": "Découvrez le Casino de Calais : machines à sous, roulette électronique, blackjack et Ultimate Poker, horaires, bar et brasserie, événements et soirées, conditions d’accès et conseils pour une expérience agréable.",
+            "canonical": "casinocalais-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1364",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinocalais-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1365",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1366"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1367",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Calais Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": " Casino de Calais — jeux, ambiance, bar et événements",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1368",
+            "imageSizeModifier": 5,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1369",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "Le Casino de Calais séduit par un espace de jeu vivant où l’on alterne machines, jeux électroniques et tables.",
+            "items": [
+                "Jackpots progressifs sur les machines chaque jour.",
+                "Roulette électronique pour des gains rapides.",
+                "Blackjack et Ultimate Poker, jeu stratégique.",
+                "Offres de jeu fréquentes, crédits bonus.",
+                "Horaires pratiques, jusqu’à tard la nuit.",
+                "Bar et brasserie pour une pause.",
+                "Emplacement central, accès simple à pied."
+            ],
+            "advantagesAfterText": "L’ambiance est conviviale et urbaine, idéale pour une sortie mêlant divertissement et détente. Les animations régulières ajoutent une vraie dimension « soirée » au lieu.",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino de Calais App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1370",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Calais App",
+            "mobileGooglePlayImageTitle": "Casino de Calais App",
+            "mobileIosImageTitle": "Casino de Calais App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino de Calais",
+                "description1": "Le Casino de Calais se distingue par un rythme de jeu très accessible : machines et roulette électronique pour l’action, tables pour la stratégie. L’expérience est renforcée par le bar, la brasserie et les animations, qui transforment la visite en vraie soirée.\n",
+                "items": [
+                    "Jackpots jusqu’à 50 000€+.",
+                    "Free Play 10–50€ souvent.",
+                    "Offres cashback 5–10% parfois."
+                ],
+                "description2": "Le Casino de Calais est un casino de ville, facile à découvrir sans préparation. L’intérieur propose généralement une ambiance chaleureuse et dynamique, pensée pour le confort. L’offre de jeu combine machines à sous, jeux électroniques et quelques tables classiques, ce qui convient à tous les profils.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1371",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " Les débutants apprécient la simplicité des postes électroniques pour apprendre rapidement. Les joueurs habitués aiment alterner entre stratégie et jeu plus rapide. Le bar et l’espace restauration renforcent la dimension détente. Des animations ponctuent l’année et donnent envie de revenir en groupe. Les conditions d’accès restent classiques : âge, pièce d’identité et tenue correcte. En soirée, l’atmosphère devient plus festive, portée par le divertissement. Au final, le Casino de Calais s’adapte aussi bien à une visite courte qu’à une vraie sortie nocturne.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Calais : style, ambiance, jeux et détente",
+                "description": "<p>\nLe Casino de Calais s’apparente à un casino urbain moderne, pensé pour être chaleureux et vivant. L’objectif n’est généralement pas l’excès de luxe, mais le confort : éclairage agréable, espaces bien organisés et circulation simple. Le soir, l’ambiance devient plus festive avec davantage de visiteurs et un volet animation plus marqué. Pour ceux qui préfèrent un rythme calme, la journée reste idéale, car il est plus facile de choisir son jeu et de profiter de l’espace.\n\n<\/p>\n<br>\n\n\n<p>\nLes horaires sont conçus pour convenir à une visite en journée comme à une sortie tardive. En règle générale, le casino ouvre le matin et ferme en pleine nuit, avec une amplitude renforcée en fin de semaine pour accompagner le public nocturne. Cela permet de planifier une expérience complète : jeu, restauration, bar, puis ambiance de soirée. Cette flexibilité rend le lieu accessible aussi bien pour une courte escale que pour une nuit de divertissement.\n\n<\/p>\n<br>\n<p>\nL’offre de jeu du Casino de Calais se concentre autour des machines à sous et des postes électroniques, appréciés pour leur variété et leur rythme rapide. La roulette électronique et le blackjack électronique attirent ceux qui aiment les mises simples et les parties fluides. Les amateurs de tradition trouvent aussi des tables où la stratégie et la discipline font la différence. Le résultat est une proposition équilibrée, qui permet de varier facilement selon l’humeur.\n\n<\/p>\n<br>\n<p>\nLe bar et la restauration complètent l’expérience et renforcent la dimension « sortie ». Le bar est parfait pour une pause, un cocktail ou un snack entre deux sessions, tandis que la brasserie convient davantage à un repas posé. Ce format plaît particulièrement aux groupes : chacun peut vivre sa soirée à son rythme, sans quitter le même lieu. La cuisine se veut généralement généreuse et adaptée à une soirée prolongée.\n\n<\/p>\n<br>\n<p>\nLes événements et animations occupent une place importante, notamment les week‑ends et pendant les périodes festives. Soirées à thème, formats spectacles et rendez‑vous ludiques donnent envie de venir même sans objectif de jeu précis. L’accent est souvent mis sur la convivialité : musique, ambiance, petites animations et moments partagés. Des espaces dédiés peuvent accueillir des événements privés, ce qui rend le casino intéressant pour des soirées d’entreprise ou des célébrations.\n\n<\/p>\n<br>\n<p>\nCôté avantages, les offres en casino terrestre passent le plus souvent par une carte de fidélité, des invitations et des crédits de jeu. On peut retrouver du Free Play, des attentions anniversaire, des soirées à points renforcés et des avantages bar‑restaurant. La fidélité apporte aussi du service : invitations prioritaires, offres personnalisées et accès à certains tirages au sort. Le Casino de Calais vise ainsi un équilibre entre jeu, convivialité et expérience de soirée.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et aspects financiers au Casino de Calais : équipe, paiements, gains\n\n<\/h3>\n\n<p>\nLe personnel du Casino de Calais est généralement organisé pour accompagner le client à chaque étape : entrée, choix des jeux, assistance et service au bar. Dans la salle, des équipes peuvent aider à comprendre le fonctionnement des machines, à créer une carte de fidélité et à utiliser les postes électroniques. Aux tables, les croupiers assurent le rythme, la régularité des mises et l’ambiance. Cette présence rend l’expérience plus accessible, surtout pour les nouveaux visiteurs.\n\n<\/p>\n<br>\n\n\n<p>\nLa langue principale reste le français, et il est fréquent que l’on puisse obtenir une aide basique en anglais pour des questions simples, notamment avec un public de passage. Dans les zones de jeu, la communication est souvent légère : interfaces claires, règles affichées, assistance sur demande. Pour une visite longue ou un événement, le meilleur réflexe est de passer au point d’accueil afin d’obtenir les informations pratiques. Cela facilite l’organisation et réduit les incertitudes.\n\n<\/p>\n<br>\n<p>\nLa devise utilisée est l’euro, qui s’applique aux mises, aux opérations de caisse et aux consommations. Les paiements acceptés combinent le plus souvent espèces et cartes bancaires, avec parfois des options sans contact selon les terminaux. Beaucoup de visiteurs préfèrent alimenter leur budget jeu en espèces et régler la restauration par carte. Pour un usage 100% dématérialisé, il est recommandé de vérifier les conditions de la caisse et des postes de jeu.\n\n<\/p>\n<br>\n<p>\nLes distributeurs automatiques et l’éventuel change varient selon l’organisation locale : un DAB peut se trouver sur place ou à proximité, tandis que le change se fait généralement via des services bancaires en ville. Les frais et limites dépendent de votre banque, il est donc utile de vérifier les plafonds avant la sortie. Avoir des euros à l’avance évite de perdre du temps pendant la soirée. Séparer budget jeu et budget détente aide aussi à garder une expérience maîtrisée.\n\n<\/p>\n<br>\n<p>\nLe retrait des gains se fait en casino terrestre via la caisse : vous validez le montant, présentez si besoin une pièce d’identité et recevez un paiement selon la procédure interne. Pour des sommes importantes, des contrôles supplémentaires peuvent exister, conformément aux pratiques de sécurité financière. Selon les montants, certaines solutions peuvent inclure un règlement non‑cash, mais cela dépend des règles de l’établissement. Conserver les justificatifs est toujours une bonne idée, surtout en cas de gros gain.\n\n<\/p>\n<br>\n<p>\nLa fiscalité dépend du profil du joueur et des règles applicables à sa situation personnelle, il n’existe donc pas de réponse universelle. Le casino applique sa procédure de paiement, tandis que les obligations éventuelles relèvent du statut du joueur et de son cadre légal. Pour un gain élevé, il est conseillé de demander à la caisse les documents disponibles et, si nécessaire, de consulter un spécialiste. Cette prudence permet de profiter pleinement de l’expérience.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite du Casino de Calais : tenue, accès, interdits, accès et stationnement\n\n<\/h3>\n\n<p>\nLe Casino de Calais accueille selon des règles classiques : accès réservé aux adultes et présentation d’une pièce d’identité. Un contrôle à l’entrée est généralement en place pour garantir la sécurité et une ambiance agréable. La tenue doit être correcte : une apparence soignée est attendue, en évitant les styles trop sportifs ou inadaptés. À l’intérieur, le respect des autres joueurs et du personnel est essentiel afin de préserver le confort de tous. Les photos et vidéos sont souvent limitées dans les espaces de jeu pour protéger la confidentialité. L’usage du téléphone peut aussi être encadré près des tables et de la caisse. Certaines zones, notamment les tables, peuvent imposer des règles de comportement supplémentaires. Le tabac est généralement soumis aux règles du lieu ou à des espaces dédiés. Les soirs de week‑end, arriver plus tôt améliore l’expérience car l’affluence augmente. En voiture, il faut prévoir le stationnement en ville et les zones de parking. À pied, l’accès est simple grâce à l’environnement central.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRègles et conditions clés\n<\/h4>\n\n <ul>\n            <li>• \nÂge 18+ — accès réservé aux adultes, pièce d’identité demandée.\n\n<\/li>\n            <li>• \nPièce d’identité obligatoire — passeport ou document officiel pour l’entrée.\n\n<\/li>\n            <li>• \nTenue correcte exigée — apparence soignée, éviter plage et tenue trop sportive.\n\n<\/li>\n            <li>• \nInterdiction de troubles — agressivité, conflits et perturbations du jeu proscrits.\n\n<\/li>\n\t    <li>• \nRestrictions photo\/vidéo — filmer les tables et les clients est généralement interdit.\n\n<\/li>\n\t    <li>• \nRègles aux tables — suivre les consignes des croupiers, respecter mises et déroulé.\n\n<\/li>\n\t    <li>• \nAlcool et responsabilité — service pouvant être limité en cas d’ivresse manifeste.\n\n<\/li>\n\t    <li>• \nContrôles de sécurité — vérifications possibles aux heures d’affluence.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccès et stationnement\n<\/h4>\n\n <ul>\n            <li>• \nÀ pied \/ transports urbains — pratique grâce à l’emplacement central.\n\n<\/li>\n            <li>• \nEn voiture — privilégier les parkings urbains à proximité et respecter la réglementation.\n\n<\/li>\n            <li>• \nTaxi \/ services VTC — utile le soir, surtout après les animations.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité du Casino de Calais : niveaux, bonus et avantages\n\n<\/h3>\n\n<p>\nLe programme de fidélité du Casino de Calais repose généralement sur une carte club qui enregistre l’activité du joueur et la transforme en offres et privilèges. Le principe est simple : vous jouez à votre rythme et le système cumule des points ou des unités de statut. L’intérêt principal réside dans les offres personnalisées : free play, crédits bonus, invitations et attentions au bar ou à la brasserie. Au‑delà du jeu, la fidélité apporte du confort : accès prioritaire à certains événements, avantages de service et promotions réservées. L’impact est souvent plus visible le soir et le week‑end, périodes où les opérations spéciales sont plus fréquentes. La carte peut aussi aider à mieux gérer son budget grâce au suivi des avantages. Pour les visiteurs réguliers, les bénéfices augmentent par paliers et deviennent tangibles après quelques passages. Les gains de points sont souvent optimisés sur les machines et les postes électroniques, tandis que les tables suivent des règles internes. De nombreuses offres sont liées au calendrier : anniversaire, fêtes, saisons et tirages spéciaux. Plus la fréquentation est régulière, plus les propositions deviennent ciblées. Au final, la fidélité transforme la visite en expérience « club », rentable et confortable.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n<\/h4>\n\n <ul>\n            <li>• \nÂge 18+ et pièce d’identité — inscription réservée aux adultes.\n\n<\/li>\n            <li>• \nFiche client — informations de base pour l’identification.\n\n<\/li>\n            <li>• \nRemise de la carte — délivrée sur place après inscription.\n\n<\/li>\n            <li>• \nActivation en caisse — association au profil pour les avantages.\n\n<\/li>\n\t    <li>• \nAccord notifications — pour recevoir les offres personnalisées.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et comment les obtenir \n<\/h4>\n\n <ul>\n            <li>• \nClassic — niveau d’entrée dès l’inscription ; points sur jeu et visites.\n\n<\/li>\n            <li>• \nSilver — avec visites régulières ; plus de Free Play et d’invitations.\n\n<\/li>\n            <li>• \nGold — forte activité ; plafonds d’offres et services renforcés.\n\n<\/li>\n            <li>• \nVIP — sur invitation ; personnalisation maximale et événements privés.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nFree Play 10–30€ — crédit jeu sur machines sélectionnées en jours promo.\n\n<\/li>\n            <li>• \nBonus Play 20–50€ — crédit renforcé pour membres actifs le week‑end.\n\n<\/li>\n            <li>• \nCashback 5–10% — retour partiel des pertes sous forme de crédits en opération.\n\n<\/li>\n            <li>• \nAnniversaire 10–25€ — attention sous forme de crédit ou bon bar\/jeu.\n\n<\/li>\n\t    <li>• \nPoints doublés 2× — créneaux où le statut progresse plus vite.\n\n<\/li>\n\t    <li>• \nInvitations événements — accès soirées à thème, spectacles, animations.\n\n<\/li>\n\t    <li>• \nAvantages bar\/brasserie 5–20€ — bons ou réductions sous conditions.\n\n<\/li>\n\t    <li>• \nTirages 500–5 000€ — tournois\/jeux avec lots en argent ou crédits.\n\n<\/li>\n\t    <li>• \nService prioritaire — démarches plus rapides, accompagnement renforcé.\n\n<\/li>\n\t    <li>• \nOffres sur‑mesure — packs adaptés à vos habitudes de jeu.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino de Calais",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nOffres et promotions du Casino de Calais : bonus, gains et temps forts\n<\/h3>\n\n<p>\nEn plus de la carte club, le Casino de Calais propose souvent des opérations accessibles à tous, y compris aux visiteurs occasionnels. Ces promotions sont généralement liées à des jours précis, à des horaires ou à des thèmes saisonniers pour renforcer l’émotion du jeu. Côté machines, on retrouve fréquemment des crédits de démarrage, des tournois basés sur la performance et des tirages au sort en journée promo. Les jeux électroniques se prêtent bien aux formats dynamiques : coupons, sessions animées et mécaniques « boostées ». Pour les tables, l’intérêt se situe davantage dans l’ambiance : soirées spéciales, mini‑défis et rendez‑vous événementiels. À cela s’ajoutent des offres bar‑restauration, qui transforment la visite en sortie complète. Les événements saisonniers renforcent la convivialité avec décorations et scénarios de soirée. Pour le public, c’est une manière simple d’obtenir un avantage immédiat, même lors d’une première visite. Les modalités évoluent selon le calendrier, il est donc utile de consulter les annonces sur place. Choisir une soirée qui combine animation et promotion maximise l’expérience. Ainsi, le Casino de Calais ne se résume pas aux mises : il propose aussi une vraie dimension événementielle.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromotions et offres \n<\/h4>\n\n <ul>\n            <li>• \nWelcome Free Play 10€ — crédit de démarrage ponctuel pour nouveaux visiteurs en période promo.\n\n<\/li>\n            <li>• \nHappy Hours 2× crédits gains — créneaux limités avec mécanique promotionnelle renforcée.\n\n<\/li>\n            <li>• \nTournoi machines 1 000–3 000€ de lots — récompenses selon résultats du jour\/semaine.\n\n<\/li>\n            <li>• \nTirage « Lucky Draw » 500–2 000€ — participation via coupon après activité sur machines.\n\n<\/li>\n\t    <li>• \nGains instantanés 5–50€ — coupon grattage ou crédit immédiat selon l’opération.\n\n<\/li>\n\t    <li>• \nJackpot progressif 10 000–50 000€+ — gros gains sur machines sélectionnées.\n\n<\/li>\n\t    <li>• \nSoirée jeux électroniques : coupon 20€ — avantage sur terminaux roulette\/blackjack lors d’un événement.\n\n<\/li>\n\t    <li>• \nWeek‑end à thème + boisson — cocktail offert dans le cadre de la soirée.\n\n<\/li>\n\t    <li>• \nDinner & Show −10–20% — formule repas + spectacle avec avantage tarifaire.\n\n<\/li>\n\t    <li>• \nSemaines saisonnières — tirages et cadeaux supplémentaires aux dates festives.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino de Calais : machines, roulette et stratégie\n\n<\/h3>\n\n<p>\nLe Casino de Calais est souvent choisi pour son accessibilité : on entre facilement dans l’action sans préparation complexe. Les machines à sous sont généralement les plus jouées grâce à la variété des thèmes, des bonus et des jackpots progressifs. Leur avantage est la flexibilité des mises, idéale pour ajuster son rythme. Les postes électroniques séduisent par leur rapidité et leur simplicité, ce qui incite à les combiner avec les machines. La roulette électronique sert fréquemment de porte d’entrée aux débutants : règles claires, interface rassurante, large choix de mises. Le blackjack électronique attire ceux qui veulent de la stratégie avec un confort maximal. Le blackjack à table apporte une dimension plus « scène » : rythme, interaction, discipline. L’Ultimate Poker ajoute un côté compétitif apprécié des amateurs de décisions à chaque main. Beaucoup de visiteurs construisent leur soirée en alternant : machines pour l’énergie, roulette pour le frisson, tables pour la finale. Le week‑end, l’intérêt monte avec l’ambiance plus animée et la dimension sociale. Pour une expérience réussie, définir ses limites et choisir le jeu adapté à son style reste essentiel. Cette approche permet de profiter pleinement tout en gardant le contrôle.\n\n<\/p>\n<br>\n<ul>\n            <li>• \nMachines à sous — thèmes variés, bonus, possibilité de jackpots progressifs.\n\n<\/li>\n            <li>• \nRoulette électronique — parties rapides, interface simple, nombreuses options de mise.\n\n<\/li>\n            <li>• \nBlackjack électronique — stratégie accessible, confort et rythme fluide.\n\n<\/li>\n            <li>• \nBlackjack (table) — classique avec croupier, interaction et décisions tactiques.\n\n<\/li>\n\t    <li>• \nUltimate Poker (table) — poker contre la maison, gestion du risque et combinaisons.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlafonds de mises au Casino de Calais : repères pour gérer son budget\n\n<\/h3>\n\n<p> \nLes mises au Casino de Calais sont généralement pensées pour couvrir plusieurs profils, du jeu prudent aux sessions plus engagées. Les débutants commencent souvent par les machines et les postes électroniques, où les mises minimales sont plus basses et le rythme mieux maîtrisable. Les tables demandent souvent un budget plus élevé, car la mise suit les règles de la table et le tempo des parties. Pour jouer longtemps avec confort, il est utile de choisir un format où la mise correspond à votre plan de soirée. Voici des fourchettes pratiques pour se repérer et sélectionner le jeu adapté.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#CD2D26; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu\/zone<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2,00 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAnimations et divertissements au Casino de Calais : spectacles, soirées et rendez‑vous réguliers\n\n<\/h3>\n\n<p>\nLe Casino de Calais est souvent perçu comme un lieu où le jeu n’est qu’une partie de la soirée. Les animations se structurent généralement autour de soirées à thème, de formats musicaux et d’événements qui attirent le public les week‑ends et pendant les périodes festives. Ces soirs‑là, l’ambiance devient plus « club » : davantage d’échanges, de rythme, de musique, et le bar joue un rôle central. Cela plaît aux groupes qui recherchent une sortie complète, pas seulement une session de jeu.\n\n<\/p>\n<br>\n\n\n<p>\nLes divertissements réguliers peuvent inclure des rendez‑vous avec animateurs, des opérations ludiques et des formats participatifs, pensés pour créer une atmosphère de fête. Les soirées bingo sont aussi un classique, accessibles même aux visiteurs peu joueurs. Pour une vibe nocturne, les week‑ends restent les moments phares : programmation plus dense, énergie plus forte, sensation de vraie vie de nuit. L’expérience se vit alors par séquences : jeu, pause au bar, retour au jeu, puis ambiance.\n\n<\/p>\n<br>\n<p>\nUn autre volet concerne les événements spéciaux et les formats « show », organisés dans des espaces capables d’accueillir un public plus large. Ces soirées suivent souvent le calendrier : semaines festives, temps forts saisonniers, dîners thématiques avec programme et performances. Le casino prend ainsi une dimension culturelle et événementielle, au‑delà du jeu. Cela rend la visite mémorable même sans objectif de jeu prolongé.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les divertissements\n<\/h4>\n\n <ul>\n            <li>• \nSoirées à thème — musique, animateurs, scénarios saisonniers\/festifs.\n\n<\/li>\n            <li>• \nSoirées bingo — activité conviviale, ouverte à tous les profils.\n\n<\/li>\n            <li>• \nFormules dinner‑show — repas + animation, ambiance renforcée.\n\n<\/li>\n            <li>• \nPerformances live \/ esprit cabaret — scène, artistes, éléments de spectacle.\n\n<\/li>\n\t    <li>• \nÉvénements promo jeux — tournois\/tirages, soirées machines boostées.\n\n<\/li>\n\n            <li>• \nSemaines festives — décorations, offres spéciales, activités supplémentaires.\n\n<\/li>\n\t    <li>• \nÉvénements privés — soirées d’entreprise, fêtes privées dans des salons dédiés.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurant et détente au Casino de Calais : pauses et confort pendant la soirée\n\n<\/h3>\n\n<p>\nLa détente au Casino de Calais se vit souvent selon deux scénarios : une pause rapide au bar et un repas plus posé à la brasserie. Le bar est parfait pour souffler, échanger sur le jeu, prendre un cocktail ou un café, puis revenir en salle sans casser le rythme. C’est particulièrement vrai le soir, quand l’énergie monte et que de petites pauses aident à mieux profiter de l’expérience. Le bar devient aussi un point social, idéal pour se retrouver et organiser la suite de la soirée.\n\n<\/p>\n<br>\n\n\n<p>\nLa brasserie du casino convient à ceux qui veulent transformer la sortie en moment plus confortable et gourmand. Un bon repas permet de ralentir, de se recentrer et de jouer plus sereinement. Pour les groupes, c’est une solution pratique : certains dînent pendant que d’autres jouent, puis on inverse. Cette alternance crée une sortie complète où le divertissement ne repose pas uniquement sur le jeu.\n\n<\/p>\n<br>\n<p>\nConcernant l’hébergement, beaucoup de visiteurs choisissent un hôtel en ville afin de garder une totale liberté d’horaires. L’emplacement central facilite le retour à pied ou en trajet court, ce qui est idéal après une animation ou une session tardive. Cela convient à ceux qui veulent prolonger la soirée sans stress. Au final, l’expérience autour du Casino de Calais se structure facilement : jeu, pause, repas, animation, puis fin de soirée confortable.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les espaces détente\n<\/h4>\n\n <ul>\n            <li>• \nBar du casino — cocktails, café, pauses rapides, ambiance conviviale.\n\n<\/li>\n            <li>• \nLe Touquet’s (brasserie\/bistrot) — déjeuner\/dîner au calme, idéal en groupe.\n\n<\/li>\n            <li>• \nHôtels en ville à proximité — nuitée pratique pour une sortie tardive.\n\n<\/li>\n\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Que faire si je ne connais pas les règles ?",
+                    "answer": "Commencez par les machines ou les jeux électroniques : l’interface est simple et le personnel peut aider.\n"
+                },
+                {
+                    "title": "Le téléphone est‑il autorisé partout ?",
+                    "answer": "Des restrictions peuvent exister en zone de jeu, surtout près des tables, pour préserver le déroulé et la confidentialité.\n"
+                },
+                {
+                    "title": "Comment gérer son budget de manière sûre ?",
+                    "answer": "Fixez un plafond avant d’entrer, séparez « jeu » et « détente », et faites des pauses régulières.\n"
+                },
+                {
+                    "title": "Quel jeu choisir quand on débute ?",
+                    "answer": "Les machines à faibles mises ou la roulette électronique sont idéales pour apprendre le rythme.\n"
+                },
+                {
+                    "title": "Y a‑t‑il une limite de temps sur place ?",
+                    "answer": "En général non, tant que vous respectez le règlement et les horaires d’ouverture.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1372",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Calais"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
